@@ -1,6 +1,8 @@
-Readme 
-======
+Curso de Desarrollo y Control en TUMI
+=====================================
 
-Ejemplo de curso git
+1.- ejbs/travel-agency : Demo de EJB 3.x
 
-2018
+
+
+JoeDayz
